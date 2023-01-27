@@ -5,7 +5,7 @@
 
 // class WeatherApiClient {
 //   Future<WeatherResponse> getWeather(String city) async {
-//     const String apiKey = "af59b0facc783692186a8704fcd82e6d";
+//     const String apiKey = "yourapikeyhere";
 //     final String url = "https://api.openweathermap.org/data/2.5/weather?q={$city}&appid={$apiKey}";
 
 //     final result = await http.get(Uri.parse(url));
